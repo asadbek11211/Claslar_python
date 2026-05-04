@@ -25,7 +25,6 @@
 
 
 
-
 # class Shaxs:
 #     def __init__(self,ism,familya,tyil):
 #         self.name = ism
