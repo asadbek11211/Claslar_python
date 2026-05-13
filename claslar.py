@@ -7,6 +7,7 @@
 # #         self.joylashuv = joylashuv
 # #         self.maydoni = maydoni
 # #         self.til = til
+
 # #     def get_nomi(self):
 # #         return f"{self.nomi.title()}"
 # #     def Info(self):
