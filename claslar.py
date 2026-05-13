@@ -14,6 +14,7 @@
 # #         return f"{self.nomi.title()} davlatining poyhaxti {self.poytaht} shaxri {self.axoli} nafar axoliga ega "
 # #     def get_joylashuv(self):
 # #         return f"{self.nomi.title() } davlati {self.joylashuv} da joylashgan"
+
 # #     def get_maydoni(self):
 # #         return f"{self.nomi.title()}ning maydoni {self.maydoni} km kvga teng"
 # #     def get_tili(self):
