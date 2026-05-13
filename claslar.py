@@ -32,6 +32,7 @@
 #         self.name = ism
 #         self.surname =familya
 #         self.age = tyil
+
 #     def get_info(self):
 #         return f"{self.name.title()} {self.surname.title()} {self.age} yilda tugilgan"
 #     def get_name(self):
