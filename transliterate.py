@@ -4,6 +4,7 @@ import sys
 
 
 
+
 LATIN_TO_CYRILLIC = {
     'a': 'а', 'A': 'А',
     'b': 'б', 'B': 'Б',
